@@ -6,7 +6,7 @@ Created on June 2, 2019
 Bezier Spline to Catmull-Rom Spline and Vice-Versa Conversion
 
 @author: Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de>
-https://github.com/starasteh/
+https://github.com/tayebiarasteh/
 */
 
 namespace sorooshTest

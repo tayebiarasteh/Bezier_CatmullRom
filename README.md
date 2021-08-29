@@ -1,7 +1,7 @@
 # C# implementation of the conversion between Catmull-Rom and Bézier curve segments
 
 
-### By [Soroosh Tayebi Arasteh](https://github.com/starasteh) and [Adam Kalisz](https://github.com/GSORF)
+### By [Soroosh Tayebi Arasteh](https://github.com/tayebiarasteh) and [Adam Kalisz](https://github.com/GSORF)
 
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
